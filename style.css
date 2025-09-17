@@ -1,0 +1,31 @@
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+h1{
+    color: red;
+    font-family: playfair display;
+}
+.address{
+    color: black;
+    font-family: lato;
+    font-size: medium;
+}
+.date{
+    color: grey;
+    font-family: lato;
+}
+h2{
+    color: black;
+    font-family: playfair display;
+}
+h3{
+    color: #0c0303;
+    font-family: lato;
+    font-weight: lighter;
+}
+.education{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
